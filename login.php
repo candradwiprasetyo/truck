@@ -43,6 +43,8 @@
                     }
                     ?>
 
+
+
                     <div class="form-group">
                         <input style="border:1px solid #eee;" required type="text" name="i_login" class="form-control" placeholder="User Login"/>
                     </div>
@@ -57,6 +59,8 @@
                  
                 </div>
             </form>
+
+<div></div>
 
            
         </div>
